@@ -1,0 +1,11 @@
+# Aula 1: Como Você Vai Dominar a Estrutura de Projetos com CrewAI
+
+> Já ficou perdido organizando projetos de IA, que começam simples mas viram uma bagunça cheia de arquivos e pastas? Principalmente quando a galera toda trabalha junto? Se sim, relaxa: esse “vilão” é bem comum para quem mexe com agentes inteligentes. E pode atrapalhar bastante na hora de crescer o projeto, dar manutenção e colaborar em equipe.
+
+Oi, pessoal! Eu sou o Venilton, líder técnico do time de Educação da DIO e doutor em Engenharia de Software pelo ICMC-USP. Trabalho com tecnologia há mais de 15 anos, já atuei com desenvolvimento, arquitetura de sistemas e, mais recentemente, mergulhei em projetos de IA voltados para deixar o aprendizado mais acessível. Nos últimos anos, foquei bastante em agentes autônomos e em trazer novidades de IA para a DIO, sempre com um pé na prática. Minha experiência tem tudo a ver com o curso “Estrutura de Projetos com CrewAI”, e estou animado para te ajudar a dominar as melhores práticas de organização de projetos.
+
+Aqui no curso, você vai aprender na prática como organizar um projeto CrewAI: desde a estrutura de pastas e arquivos essenciais, passando pela separação dos módulos dos agentes, tarefas e papéis (o que deixa tudo mais reutilizável e fácil de entender), até como integrar recursos externos, como Grandes Modelos de Linguagem, os famosos LLMs. Também vamos falar sobre boas práticas de versionamento e documentação — coisa essencial para quem trabalha em equipe e quer manter tudo rastreável. No final, você vai saber estruturar projetos CrewAI de um jeito que facilita escalar, manter e trabalhar junto com a galera.
+
+Ah, um aviso importante: apesar do exemplo sugerir que não precisa de pré-requisitos, os materiais do curso recomendam que você já tenha passado pela parte de **"Instalação e Configuração do CrewAI"**.
+
+E não esquece: todo o conteúdo (teórico e prático) está disponível no repositório oficial da DIO no GitHub. Deixa sua estrelinha lá e acompanha as novidades! Se pintar qualquer dúvida ou problema, abre uma issue no repositório que eu — ou alguém da comunidade — vai te ajudar!
