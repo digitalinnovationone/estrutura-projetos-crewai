@@ -23,4 +23,4 @@ Conquistas:
 
 Durante o curso, todas as práticas foram realizadas localmente pelo instrutor para facilitar o acompanhamento dos conceitos. O projeto final está disponível no repositório do instrutor, onde você pode acessar todo o código e os materiais utilizados.
 
-```TODO: Incluir o link do repositório Git```
+https://github.com/falvojr/estrutura_projetos_crewai
